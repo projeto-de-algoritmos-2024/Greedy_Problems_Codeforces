@@ -50,5 +50,6 @@ python <arquivo_a_interpretar>
 
 | Problema                                                    | Código                                 | Dificuldade | Responsável | Vídeo                                               |
 | ----------------------------------------------------------- | -------------------------------------- | ----------- | ----------- | --------------------------------------------------- |
-| [1579E2](https://codeforces.com/problemset/problem/1579/E2) | [main.cpp](./problems/1579E2/main.cpp) | 1700        | Iago Rocha  | [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-| [1393C](https://codeforces.com/problemset/problem/1393/C)   | [main.cpp](./problems/1393C/main.cpp)  | 1700        | Iago Rocha  | [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+| [1579E2](https://codeforces.com/problemset/problem/1579/E2) | [main.cpp](./problems/1579E2/main.cpp) | Difícil        | Iago Rocha  | [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+| [1393C](https://codeforces.com/problemset/problem/1393/C)   | [main.cpp](./problems/1393C/main.cpp)  | Difícil        | Iago Rocha  | [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
+| [1271B](https://codeforces.com/contest/1271/problem/B)   | [main.py](./problems/1271B/main.py)  | Média        | Henrique Quenino  | [link]() |
